@@ -1,0 +1,31 @@
+keyword,score,direction,dataset,model,label
+demolition replacement,2.3088202207305826,positive,v2,semantic,PURSUE
+interior renovations,2.121895390785693,positive,v2,semantic,PURSUE
+interior renovation,2.0559725593043723,positive,v2,semantic,PURSUE
+construction demolition,2.0448969846593448,positive,v2,semantic,PURSUE
+replacements,2.0409189860487724,positive,v2,semantic,PURSUE
+replacement services,1.9589544106599437,positive,v2,semantic,PURSUE
+replacement background,1.8877910176851564,positive,v2,semantic,PURSUE
+building renovations,1.872301222603597,positive,v2,semantic,PURSUE
+replacement upgrade,1.8671931930922983,positive,v2,semantic,PURSUE
+wood replacement,1.8644095787424377,positive,v2,semantic,PURSUE
+replacement,1.8642493645677156,positive,v2,semantic,PURSUE
+reconstruction,1.8625360785512568,positive,v2,semantic,PURSUE
+renovation construction,1.855949826773508,positive,v2,semantic,PURSUE
+replacement existing,1.8459253357567615,positive,v2,semantic,PURSUE
+demolition,1.8294205636466347,positive,v2,semantic,PURSUE
+fence repairs,1.8270893206631054,positive,v2,semantic,PURSUE
+demolition existing,1.8257584676000005,positive,v2,semantic,PURSUE
+door replacement,1.8241799447281326,positive,v2,semantic,PURSUE
+structural integrity,1.8203660073042118,positive,v2,semantic,PURSUE
+contractor replace,1.8167754666117961,positive,v2,semantic,PURSUE
+replace damaged,1.7929721337934896,positive,v2,semantic,PURSUE
+replacement new,1.7913073883322381,positive,v2,semantic,PURSUE
+demolition removal,1.7851309201834262,positive,v2,semantic,PURSUE
+existing fencing,1.7837062456216561,positive,v2,semantic,PURSUE
+salvage,1.7767468695173694,positive,v2,semantic,PURSUE
+involves replacement,1.7707584481238374,positive,v2,semantic,PURSUE
+replacements work,1.767758206814238,positive,v2,semantic,PURSUE
+demolition plans,1.7474117982338542,positive,v2,semantic,PURSUE
+fence repair,1.7457236358054673,positive,v2,semantic,PURSUE
+repair replacement,1.7436702667922503,positive,v2,semantic,PURSUE

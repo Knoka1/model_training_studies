@@ -1,0 +1,31 @@
+keyword,coefficient,direction,dataset,model,label
+replacement,1.3326164024925329,positive,v2,tfidf,PURSUE
+building,0.9986173818797852,positive,v2,tfidf,PURSUE
+fence,0.9355825021352799,positive,v2,tfidf,PURSUE
+renovations,0.9092370895431577,positive,v2,tfidf,PURSUE
+restroom,0.8510912809957418,positive,v2,tfidf,PURSUE
+demolition,0.7701351227947565,positive,v2,tfidf,PURSUE
+construction services,0.721417856454179,positive,v2,tfidf,PURSUE
+roofing,0.7072317006913615,positive,v2,tfidf,PURSUE
+roof replacement,0.7002858150849188,positive,v2,tfidf,PURSUE
+renovation,0.684853841570819,positive,v2,tfidf,PURSUE
+services,0.6681033245900767,positive,v2,tfidf,PURSUE
+construction,0.6675036240471404,positive,v2,tfidf,PURSUE
+roof,0.6500543325674373,positive,v2,tfidf,PURSUE
+painting,0.6153987173813764,positive,v2,tfidf,PURSUE
+annual contract,0.5887216737100819,positive,v2,tfidf,PURSUE
+rehabilitation,0.5801328519153224,positive,v2,tfidf,PURSUE
+flooring,0.5551354215434818,positive,v2,tfidf,PURSUE
+prequalification annual,0.5507101335345206,positive,v2,tfidf,PURSUE
+continuing,0.501994949611317,positive,v2,tfidf,PURSUE
+impact windows,0.4811909999207862,positive,v2,tfidf,PURSUE
+repair replacement,0.4657955639664352,positive,v2,tfidf,PURSUE
+manager risk,0.46300491625719786,positive,v2,tfidf,PURSUE
+impact,0.45813597092172076,positive,v2,tfidf,PURSUE
+remodel,0.45584792440423505,positive,v2,tfidf,PURSUE
+prequalification,0.45228434059820366,positive,v2,tfidf,PURSUE
+cmar,0.44212952044210285,positive,v2,tfidf,PURSUE
+rehabilitation program,0.4382379909754672,positive,v2,tfidf,PURSUE
+pool,0.4376640866448743,positive,v2,tfidf,PURSUE
+ncs,0.4316919828278031,positive,v2,tfidf,PURSUE
+ncs division,0.4316919828278031,positive,v2,tfidf,PURSUE

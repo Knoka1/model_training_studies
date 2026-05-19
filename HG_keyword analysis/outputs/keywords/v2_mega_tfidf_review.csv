@@ -1,0 +1,31 @@
+keyword,coefficient,direction,dataset,model,label
+road,1.052320563946497,positive,v2_mega,tfidf,REVIEW
+lakeland,0.9136235163424268,positive,v2_mega,tfidf,REVIEW
+lab,0.8588048021337618,positive,v2_mega,tfidf,REVIEW
+memorial,0.76434428232658,positive,v2_mega,tfidf,REVIEW
+space,0.7466547782150262,positive,v2_mega,tfidf,REVIEW
+land,0.7081622456140164,positive,v2_mega,tfidf,REVIEW
+installation,0.6796540970426241,positive,v2_mega,tfidf,REVIEW
+concrete repairs,0.6755720610476302,positive,v2_mega,tfidf,REVIEW
+center,0.6555338455456111,positive,v2_mega,tfidf,REVIEW
+property,0.6192301221993406,positive,v2_mega,tfidf,REVIEW
+160,0.5849468702497819,positive,v2_mega,tfidf,REVIEW
+services city,0.58387019068652,positive,v2_mega,tfidf,REVIEW
+access,0.5753963902756416,positive,v2_mega,tfidf,REVIEW
+brick,0.5624080958160804,positive,v2_mega,tfidf,REVIEW
+sidewalk,0.5604504148879723,positive,v2_mega,tfidf,REVIEW
+pressure,0.5556801598360948,positive,v2_mega,tfidf,REVIEW
+facility,0.5553096942557769,positive,v2_mega,tfidf,REVIEW
+professional,0.546523579663527,positive,v2_mega,tfidf,REVIEW
+removal,0.5409446841395829,positive,v2_mega,tfidf,REVIEW
+sole,0.5248551864915202,positive,v2_mega,tfidf,REVIEW
+substation,0.5248540344429049,positive,v2_mega,tfidf,REVIEW
+lane,0.5109492420806006,positive,v2_mega,tfidf,REVIEW
+creation,0.5096644867614223,positive,v2_mega,tfidf,REVIEW
+description,0.4981840595759713,positive,v2_mega,tfidf,REVIEW
+ada,0.4933505547851698,positive,v2_mega,tfidf,REVIEW
+development,0.4929287949092522,positive,v2_mega,tfidf,REVIEW
+proposals,0.48780377650139145,positive,v2_mega,tfidf,REVIEW
+isolation,0.4872123787807531,positive,v2_mega,tfidf,REVIEW
+various,0.48542713556743705,positive,v2_mega,tfidf,REVIEW
+outdoor,0.4835627220916724,positive,v2_mega,tfidf,REVIEW

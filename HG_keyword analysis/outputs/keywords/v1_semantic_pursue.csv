@@ -1,0 +1,31 @@
+keyword,score,direction,dataset,model,label
+interior renovations,2.1582930685013295,positive,v1,semantic,PURSUE
+interior renovation,2.095507722660412,positive,v1,semantic,PURSUE
+demolition replacement,1.8917833287765156,positive,v1,semantic,PURSUE
+contractors replace,1.8843272524413932,positive,v1,semantic,PURSUE
+construction demolition,1.8828928016999278,positive,v1,semantic,PURSUE
+break rooms,1.875833279402512,positive,v1,semantic,PURSUE
+building renovations,1.7868957298278825,positive,v1,semantic,PURSUE
+replacement roofing,1.736616520672158,positive,v1,semantic,PURSUE
+replacement roof,1.7250150304089384,positive,v1,semantic,PURSUE
+interior walls,1.7092102061193826,positive,v1,semantic,PURSUE
+replacement services,1.686629863196476,positive,v1,semantic,PURSUE
+replacement background,1.6849200001972422,positive,v1,semantic,PURSUE
+services renovation,1.6821256325835283,positive,v1,semantic,PURSUE
+door replacement,1.6813421706747387,positive,v1,semantic,PURSUE
+insulation,1.6616052352718893,positive,v1,semantic,PURSUE
+renovation construction,1.661163460840787,positive,v1,semantic,PURSUE
+demolition plans,1.6494801003517905,positive,v1,semantic,PURSUE
+replace roofing,1.6251149760536678,positive,v1,semantic,PURSUE
+replace roof,1.615051275972009,positive,v1,semantic,PURSUE
+replacement exterior,1.6049895534021377,positive,v1,semantic,PURSUE
+doors interior,1.5884818916450818,positive,v1,semantic,PURSUE
+demolition removal,1.5830453717014252,positive,v1,semantic,PURSUE
+cutting,1.575506444798118,positive,v1,semantic,PURSUE
+demolition existing,1.5739264603594019,positive,v1,semantic,PURSUE
+construction services,1.5694957783125085,positive,v1,semantic,PURSUE
+cutting removal,1.558833170928093,positive,v1,semantic,PURSUE
+roof replacement,1.5582583554452272,positive,v1,semantic,PURSUE
+replacement windows,1.5574741919641373,positive,v1,semantic,PURSUE
+demolition,1.5569622538078578,positive,v1,semantic,PURSUE
+rooms,1.5536601885504715,positive,v1,semantic,PURSUE

@@ -1,0 +1,31 @@
+keyword,coefficient,direction,dataset,model,label
+treatment,1.7351775618718657,positive,v2_mega,tfidf,DROP
+water,1.5930030494140819,positive,v2_mega,tfidf,DROP
+treatment plant,1.446765096531084,positive,v2_mega,tfidf,DROP
+pump,1.4093537905927291,positive,v2_mega,tfidf,DROP
+pump station,1.369698904681885,positive,v2_mega,tfidf,DROP
+plant,1.1663097215280607,positive,v2_mega,tfidf,DROP
+main,1.1574653735895475,positive,v2_mega,tfidf,DROP
+water treatment,1.1559800918717729,positive,v2_mega,tfidf,DROP
+station,1.0306499092089783,positive,v2_mega,tfidf,DROP
+lift station,0.9274739772844748,positive,v2_mega,tfidf,DROP
+lift,0.9070125847677258,positive,v2_mega,tfidf,DROP
+water main,0.8800067896555305,positive,v2_mega,tfidf,DROP
+wastewater treatment,0.8698816802469767,positive,v2_mega,tfidf,DROP
+artificial,0.8527335112055823,positive,v2_mega,tfidf,DROP
+sewer,0.811880220111136,positive,v2_mega,tfidf,DROP
+improvements,0.7982717300913446,positive,v2_mega,tfidf,DROP
+drainage,0.7865006865893686,positive,v2_mega,tfidf,DROP
+city,0.7707820905300132,positive,v2_mega,tfidf,DROP
+control,0.7598337711425079,positive,v2_mega,tfidf,DROP
+landscaping,0.7590882930042813,positive,v2_mega,tfidf,DROP
+stormwater,0.7016152846561879,positive,v2_mega,tfidf,DROP
+force main,0.6883795418659937,positive,v2_mega,tfidf,DROP
+force,0.6786017684638042,positive,v2_mega,tfidf,DROP
+hydrant,0.6727065942569129,positive,v2_mega,tfidf,DROP
+inch,0.6657905782541337,positive,v2_mega,tfidf,DROP
+tennis,0.6433825257104192,positive,v2_mega,tfidf,DROP
+grant,0.6223905462230198,positive,v2_mega,tfidf,DROP
+associated,0.6085018103891482,positive,v2_mega,tfidf,DROP
+maintenance,0.5987584150746381,positive,v2_mega,tfidf,DROP
+sanitary,0.5916611347819782,positive,v2_mega,tfidf,DROP

@@ -1,0 +1,31 @@
+keyword,score,direction,dataset,model,label
+wastewater pump,2.45922992738704,positive,v2_mega,semantic,DROP
+pumps critical,2.4209420805500415,positive,v2_mega,semantic,DROP
+water plant,2.320081587665567,positive,v2_mega,semantic,DROP
+osmosis water,2.3079210335517386,positive,v2_mega,semantic,DROP
+gallons day,2.3048002904076395,positive,v2_mega,semantic,DROP
+sewage pump,2.259113974707124,positive,v2_mega,semantic,DROP
+osmosis ro,2.145243246043453,positive,v2_mega,semantic,DROP
+bypass pumping,2.1303391820029973,positive,v2_mega,semantic,DROP
+gallon day,2.128472693131574,positive,v2_mega,semantic,DROP
+stormwater pump,2.1223013039634706,positive,v2_mega,semantic,DROP
+new pump,2.112815465583503,positive,v2_mega,semantic,DROP
+pumping station,2.1006796066793627,positive,v2_mega,semantic,DROP
+pump station,2.0938087728764323,positive,v2_mega,semantic,DROP
+water sewer,2.073304556689731,positive,v2_mega,semantic,DROP
+improvements pump,2.0695376484389776,positive,v2_mega,semantic,DROP
+pump,2.06442357247075,positive,v2_mega,semantic,DROP
+catch basins,2.05662359596186,positive,v2_mega,semantic,DROP
+sewer water,2.0541425731002136,positive,v2_mega,semantic,DROP
+sewage force,2.0427678405945753,positive,v2_mega,semantic,DROP
+water wastewater,2.04257534911153,positive,v2_mega,semantic,DROP
+osmosis,2.0303056393154715,positive,v2_mega,semantic,DROP
+park irrigation,2.027416571441448,positive,v2_mega,semantic,DROP
+wastewater plant,2.027240229787191,positive,v2_mega,semantic,DROP
+pumping,2.019869005364562,positive,v2_mega,semantic,DROP
+fittings sewage,2.0119374733524005,positive,v2_mega,semantic,DROP
+water line,2.005939775973642,positive,v2_mega,semantic,DROP
+pumps,1.9929901688748182,positive,v2_mega,semantic,DROP
+new irrigation,1.985685874865659,positive,v2_mega,semantic,DROP
+clearwater issuing,1.961164291527572,positive,v2_mega,semantic,DROP
+plants wastewater,1.9530208818373624,positive,v2_mega,semantic,DROP

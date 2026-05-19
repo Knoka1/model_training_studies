@@ -1,0 +1,31 @@
+keyword,coefficient,direction,dataset,model,label
+water,1.2059449908779072,positive,v1,tfidf,DROP
+treatment,1.1955398619249358,positive,v1,tfidf,DROP
+pump,0.9543972063654204,positive,v1,tfidf,DROP
+treatment plant,0.9064362695298486,positive,v1,tfidf,DROP
+pump station,0.8911264823938497,positive,v1,tfidf,DROP
+wastewater,0.8873810735790737,positive,v1,tfidf,DROP
+stormwater,0.8683390599408561,positive,v1,tfidf,DROP
+main,0.8458587292049317,positive,v1,tfidf,DROP
+hardening,0.8158085013039518,positive,v1,tfidf,DROP
+bridge,0.7922294325355166,positive,v1,tfidf,DROP
+lift station,0.7856378463000996,positive,v1,tfidf,DROP
+lift,0.766061484283055,positive,v1,tfidf,DROP
+plant,0.711769803853854,positive,v1,tfidf,DROP
+control,0.705136705768546,positive,v1,tfidf,DROP
+wastewater treatment,0.6972997903207466,positive,v1,tfidf,DROP
+water main,0.6811731100467243,positive,v1,tfidf,DROP
+inch,0.6459036830885282,positive,v1,tfidf,DROP
+sewer,0.6144775198733986,positive,v1,tfidf,DROP
+improvements,0.6082359560679718,positive,v1,tfidf,DROP
+sidewalk,0.6012803946551097,positive,v1,tfidf,DROP
+station,0.5908340732394278,positive,v1,tfidf,DROP
+water treatment,0.5907655499023892,positive,v1,tfidf,DROP
+drainage,0.5836442849790282,positive,v1,tfidf,DROP
+palm,0.5736138340494313,positive,v1,tfidf,DROP
+force,0.5694427579077979,positive,v1,tfidf,DROP
+hurricane,0.5656266876678024,positive,v1,tfidf,DROP
+06,0.5428344454734886,positive,v1,tfidf,DROP
+landscaping,0.5145338787463576,positive,v1,tfidf,DROP
+trail,0.5001886437492677,positive,v1,tfidf,DROP
+force main,0.4925346572945893,positive,v1,tfidf,DROP

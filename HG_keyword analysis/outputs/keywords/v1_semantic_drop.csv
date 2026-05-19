@@ -1,0 +1,31 @@
+keyword,score,direction,dataset,model,label
+stormwater drainage,2.6626441727898973,positive,v1,semantic,DROP
+water sewer,2.3854707911451607,positive,v1,semantic,DROP
+bridges water,2.230739711446343,positive,v1,semantic,DROP
+river water,2.192979251565353,positive,v1,semantic,DROP
+existing drainage,2.1306435618581085,positive,v1,semantic,DROP
+clearwater issuing,2.1035417405233607,positive,v1,semantic,DROP
+decking drains,2.077498372842678,positive,v1,semantic,DROP
+storm sewer,2.036860381999719,positive,v1,semantic,DROP
+water wastewater,2.024750684343528,positive,v1,semantic,DROP
+street drainage,1.9993464161893282,positive,v1,semantic,DROP
+installation drainage,1.9645443833711445,positive,v1,semantic,DROP
+storm water,1.9451156995061525,positive,v1,semantic,DROP
+stormwater pipes,1.9384702961719151,positive,v1,semantic,DROP
+proper drainage,1.9361737516769324,positive,v1,semantic,DROP
+waterway marker,1.8834939125516055,positive,v1,semantic,DROP
+water distribution,1.875410092270699,positive,v1,semantic,DROP
+waterway,1.8394343353415787,positive,v1,semantic,DROP
+water reclamation,1.8205727334079236,positive,v1,semantic,DROP
+waterway markers,1.8174495411690337,positive,v1,semantic,DROP
+water plant,1.808525316163443,positive,v1,semantic,DROP
+drainage,1.8083213909556561,positive,v1,semantic,DROP
+street water,1.8036970677889428,positive,v1,semantic,DROP
+water lines,1.8034570774622418,positive,v1,semantic,DROP
+stormwater management,1.7906416431368215,positive,v1,semantic,DROP
+drain,1.777121461885172,positive,v1,semantic,DROP
+stormwater,1.767968243238132,positive,v1,semantic,DROP
+gallons day,1.761759756623055,positive,v1,semantic,DROP
+pipe culvert,1.7465198640084565,positive,v1,semantic,DROP
+drainage systems,1.7443283342128257,positive,v1,semantic,DROP
+drainage inlets,1.7420856085321477,positive,v1,semantic,DROP

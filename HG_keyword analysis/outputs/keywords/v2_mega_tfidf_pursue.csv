@@ -1,0 +1,31 @@
+keyword,coefficient,direction,dataset,model,label
+replacement,1.603667592065286,positive,v2_mega,tfidf,PURSUE
+rehabilitation,1.498960919868222,positive,v2_mega,tfidf,PURSUE
+building,1.3164327690998343,positive,v2_mega,tfidf,PURSUE
+demolition,1.2518391249104799,positive,v2_mega,tfidf,PURSUE
+fence,1.2187906523982746,positive,v2_mega,tfidf,PURSUE
+renovations,1.093305914625564,positive,v2_mega,tfidf,PURSUE
+painting,1.0192398684266257,positive,v2_mega,tfidf,PURSUE
+roof,0.9905593419695347,positive,v2_mega,tfidf,PURSUE
+roof replacement,0.89126929256366,positive,v2_mega,tfidf,PURSUE
+roofing,0.8801915241224818,positive,v2_mega,tfidf,PURSUE
+construction,0.8756794117168553,positive,v2_mega,tfidf,PURSUE
+restroom,0.8515859613679241,positive,v2_mega,tfidf,PURSUE
+floor,0.7549805287772302,positive,v2_mega,tfidf,PURSUE
+services,0.7539504675911002,positive,v2_mega,tfidf,PURSUE
+flooring,0.7490159445843039,positive,v2_mega,tfidf,PURSUE
+renovation,0.7311716056578254,positive,v2_mega,tfidf,PURSUE
+construction services,0.7305854491902378,positive,v2_mega,tfidf,PURSUE
+home,0.6318967900003445,positive,v2_mega,tfidf,PURSUE
+manager risk,0.6075912112250461,positive,v2_mega,tfidf,PURSUE
+annual contract,0.5784445517894801,positive,v2_mega,tfidf,PURSUE
+housing rehabilitation,0.5771530217608631,positive,v2_mega,tfidf,PURSUE
+minor,0.5670009566049189,positive,v2_mega,tfidf,PURSUE
+prequalification,0.5583515145477145,positive,v2_mega,tfidf,PURSUE
+prequalification annual,0.5254367072869517,positive,v2_mega,tfidf,PURSUE
+construction manager,0.5125313023619962,positive,v2_mega,tfidf,PURSUE
+impact,0.5083572090340258,positive,v2_mega,tfidf,PURSUE
+existing,0.5008557406685742,positive,v2_mega,tfidf,PURSUE
+attached,0.49587868176450295,positive,v2_mega,tfidf,PURSUE
+interior,0.491556093751297,positive,v2_mega,tfidf,PURSUE
+division,0.4897654303162034,positive,v2_mega,tfidf,PURSUE

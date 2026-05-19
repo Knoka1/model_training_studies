@@ -1,0 +1,31 @@
+keyword,score,direction,dataset,model,label
+water sewer,2.6575320031253757,positive,v2,semantic,DROP
+stormwater drainage,2.6221278203978593,positive,v2,semantic,DROP
+drainage irrigation,2.441784634190581,positive,v2,semantic,DROP
+irrigation year,2.2357794058862406,positive,v2,semantic,DROP
+decking drains,2.1817121399904966,positive,v2,semantic,DROP
+stormwater pump,2.15375664498364,positive,v2,semantic,DROP
+gravity sewer,2.1367653799138395,positive,v2,semantic,DROP
+water wastewater,2.1260307482430987,positive,v2,semantic,DROP
+gallons day,2.124700463748584,positive,v2,semantic,DROP
+clearwater issuing,2.109462667950223,positive,v2,semantic,DROP
+sewage pump,2.0683408155075385,positive,v2,semantic,DROP
+stormwater,1.9864831884444003,positive,v2,semantic,DROP
+proper drainage,1.961742099167302,positive,v2,semantic,DROP
+stormwater pipes,1.9280362751291427,positive,v2,semantic,DROP
+wastewater plant,1.919375015852162,positive,v2,semantic,DROP
+street drainage,1.9151847574840446,positive,v2,semantic,DROP
+drain,1.8997701162444784,positive,v2,semantic,DROP
+bridges water,1.8860665701546213,positive,v2,semantic,DROP
+stormwater management,1.87996979883017,positive,v2,semantic,DROP
+sanitary sewer,1.840041071310153,positive,v2,semantic,DROP
+installation drainage,1.8253971193573453,positive,v2,semantic,DROP
+drainage,1.8193517702499837,positive,v2,semantic,DROP
+sewer,1.809593189042682,positive,v2,semantic,DROP
+water main,1.8038981617572607,positive,v2,semantic,DROP
+water flow,1.7804328727280037,positive,v2,semantic,DROP
+waterway,1.766150284788478,positive,v2,semantic,DROP
+drainage systems,1.7642986054644108,positive,v2,semantic,DROP
+gallon day,1.7476534929597207,positive,v2,semantic,DROP
+drainage inlets,1.7470471733725548,positive,v2,semantic,DROP
+water quality,1.7470165381754257,positive,v2,semantic,DROP

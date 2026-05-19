@@ -1,0 +1,31 @@
+keyword,coefficient,direction,dataset,model,label
+pump,1.142320337315588,positive,v2,tfidf,DROP
+water,1.1379202441527498,positive,v2,tfidf,DROP
+stormwater,1.0712648437260048,positive,v2,tfidf,DROP
+pump station,1.0659530677348759,positive,v2,tfidf,DROP
+treatment,1.021460492601416,positive,v2,tfidf,DROP
+lift,0.8816999164065925,positive,v2,tfidf,DROP
+lift station,0.7904940093882245,positive,v2,tfidf,DROP
+treatment plant,0.7549766677917783,positive,v2,tfidf,DROP
+wastewater,0.7318150941674433,positive,v2,tfidf,DROP
+wastewater treatment,0.7266614973856425,positive,v2,tfidf,DROP
+station,0.7106803521940982,positive,v2,tfidf,DROP
+sewer,0.7099269458401604,positive,v2,tfidf,DROP
+main,0.6992355068760311,positive,v2,tfidf,DROP
+water main,0.6905289898611943,positive,v2,tfidf,DROP
+drainage,0.6674982084081936,positive,v2,tfidf,DROP
+improvements,0.6386233450695307,positive,v2,tfidf,DROP
+control,0.6178724820147647,positive,v2,tfidf,DROP
+inch,0.5985517042130805,positive,v2,tfidf,DROP
+force,0.5819133700919501,positive,v2,tfidf,DROP
+force main,0.5155706428554058,positive,v2,tfidf,DROP
+residential home,0.5126326871645875,positive,v2,tfidf,DROP
+posting,0.5066211284911277,positive,v2,tfidf,DROP
+water treatment,0.5018219690585323,positive,v2,tfidf,DROP
+equalization,0.5008468738482695,positive,v2,tfidf,DROP
+fleet,0.497231812147684,positive,v2,tfidf,DROP
+single family,0.49707485663665,positive,v2,tfidf,DROP
+occupied single,0.4953085826047028,positive,v2,tfidf,DROP
+landscaping,0.49424204040581565,positive,v2,tfidf,DROP
+occupied,0.4893757105077458,positive,v2,tfidf,DROP
+equalization tank,0.4860411981737925,positive,v2,tfidf,DROP
