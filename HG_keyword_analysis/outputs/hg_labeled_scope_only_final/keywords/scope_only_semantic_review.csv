@@ -1,0 +1,31 @@
+keyword,score,direction,dataset,model,label
+hcd program,1.3540389516280151,positive,scope_only,semantic,REVIEW
+hcd,1.2337577547358984,positive,scope_only,semantic,REVIEW
+traffic control,1.1469141159666085,positive,scope_only,semantic,REVIEW
+demonstrating,1.08914916851983,positive,scope_only,semantic,REVIEW
+hcd seeking,1.0542411063851667,positive,scope_only,semantic,REVIEW
+responsive,1.049243911149605,positive,scope_only,semantic,REVIEW
+testing,0.9927377172687508,positive,scope_only,semantic,REVIEW
+odor control,0.9689933724983195,positive,scope_only,semantic,REVIEW
+playgrounds,0.9560248038478307,positive,scope_only,semantic,REVIEW
+playground equipment,0.9558985149332563,positive,scope_only,semantic,REVIEW
+proof registration,0.9512245899848776,positive,scope_only,semantic,REVIEW
+demonstrate good,0.9454919338120886,positive,scope_only,semantic,REVIEW
+assessment,0.9448527180669917,positive,scope_only,semantic,REVIEW
+tests,0.9281425361835318,positive,scope_only,semantic,REVIEW
+vip website,0.9239671997983221,positive,scope_only,semantic,REVIEW
+stage,0.9161880221706107,positive,scope_only,semantic,REVIEW
+sidewalk driveways,0.9095547340265775,positive,scope_only,semantic,REVIEW
+assessments,0.9041827453069027,positive,scope_only,semantic,REVIEW
+sourcing platform,0.9008885751816815,positive,scope_only,semantic,REVIEW
+website viewing,0.8915295570582346,positive,scope_only,semantic,REVIEW
+controlled,0.8878187407756939,positive,scope_only,semantic,REVIEW
+location performance,0.8826383083051855,positive,scope_only,semantic,REVIEW
+coordination,0.8809439302931318,positive,scope_only,semantic,REVIEW
+references demonstrating,0.8793978919199781,positive,scope_only,semantic,REVIEW
+screens,0.8781788574125695,positive,scope_only,semantic,REVIEW
+laboratory,0.876706064657533,positive,scope_only,semantic,REVIEW
+intelligent transportation,0.8750048978872395,positive,scope_only,semantic,REVIEW
+infrared,0.8724628928570831,positive,scope_only,semantic,REVIEW
+enhance traffic,0.8620198475229041,positive,scope_only,semantic,REVIEW
+response dot,0.861780241277942,positive,scope_only,semantic,REVIEW
