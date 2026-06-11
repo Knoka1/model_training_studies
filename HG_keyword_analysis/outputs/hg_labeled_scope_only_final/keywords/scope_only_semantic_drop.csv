@@ -1,31 +1,31 @@
 keyword,score,direction,dataset,model,label
-water sewer,2.6575320031253757,positive,scope_only,semantic,DROP
-stormwater drainage,2.6221278203978593,positive,scope_only,semantic,DROP
-drainage irrigation,2.441784634190581,positive,scope_only,semantic,DROP
-irrigation year,2.2357794058862406,positive,scope_only,semantic,DROP
-decking drains,2.1817121399904966,positive,scope_only,semantic,DROP
-stormwater pump,2.15375664498364,positive,scope_only,semantic,DROP
-gravity sewer,2.1367653799138395,positive,scope_only,semantic,DROP
-water wastewater,2.1260307482430987,positive,scope_only,semantic,DROP
-gallons day,2.124700463748584,positive,scope_only,semantic,DROP
-clearwater issuing,2.109462667950223,positive,scope_only,semantic,DROP
-sewage pump,2.0683408155075385,positive,scope_only,semantic,DROP
-stormwater,1.9864831884444003,positive,scope_only,semantic,DROP
-proper drainage,1.961742099167302,positive,scope_only,semantic,DROP
-stormwater pipes,1.9280362751291427,positive,scope_only,semantic,DROP
-wastewater plant,1.919375015852162,positive,scope_only,semantic,DROP
-street drainage,1.9151847574840446,positive,scope_only,semantic,DROP
-drain,1.8997701162444784,positive,scope_only,semantic,DROP
-bridges water,1.8860665701546213,positive,scope_only,semantic,DROP
-stormwater management,1.87996979883017,positive,scope_only,semantic,DROP
-sanitary sewer,1.840041071310153,positive,scope_only,semantic,DROP
-installation drainage,1.8253971193573453,positive,scope_only,semantic,DROP
-drainage,1.8193517702499837,positive,scope_only,semantic,DROP
-sewer,1.809593189042682,positive,scope_only,semantic,DROP
-water main,1.8038981617572607,positive,scope_only,semantic,DROP
-water flow,1.7804328727280037,positive,scope_only,semantic,DROP
-waterway,1.766150284788478,positive,scope_only,semantic,DROP
-drainage systems,1.7642986054644108,positive,scope_only,semantic,DROP
-gallon day,1.7476534929597207,positive,scope_only,semantic,DROP
-drainage inlets,1.7470471733725548,positive,scope_only,semantic,DROP
-water quality,1.7470165381754257,positive,scope_only,semantic,DROP
+water sewer,2.8395883319077475,positive,scope_only,semantic,DROP
+stormwater drainage,2.814738599311794,positive,scope_only,semantic,DROP
+sewer water,2.62189079072766,positive,scope_only,semantic,DROP
+decking drains,2.525967548155852,positive,scope_only,semantic,DROP
+storm drainage,2.464036085804871,positive,scope_only,semantic,DROP
+gravity sewer,2.3606977328427687,positive,scope_only,semantic,DROP
+stormwater pump,2.2660930846436607,positive,scope_only,semantic,DROP
+gallons day,2.263475736512245,positive,scope_only,semantic,DROP
+irrigation year,2.2417827265929087,positive,scope_only,semantic,DROP
+water wastewater,2.1858204859742845,positive,scope_only,semantic,DROP
+sewage pump,2.1809509934837465,positive,scope_only,semantic,DROP
+clearwater issuing,2.159016272185913,positive,scope_only,semantic,DROP
+stormwater pipes,2.153987222420331,positive,scope_only,semantic,DROP
+storm water,2.1190635152674937,positive,scope_only,semantic,DROP
+stormwater,2.1134676464331443,positive,scope_only,semantic,DROP
+bridges water,2.090785365862966,positive,scope_only,semantic,DROP
+proper drainage,2.0856165127392168,positive,scope_only,semantic,DROP
+city stormwater,2.0810565824400618,positive,scope_only,semantic,DROP
+enhance drainage,2.051856334788369,positive,scope_only,semantic,DROP
+street drainage,2.0417362627086213,positive,scope_only,semantic,DROP
+existing drainage,2.0363019269477403,positive,scope_only,semantic,DROP
+drainage infrastructure,2.019946393081769,positive,scope_only,semantic,DROP
+pipe culvert,2.0125668431571304,positive,scope_only,semantic,DROP
+stormwater management,2.0084428012296835,positive,scope_only,semantic,DROP
+sanitary sewer,1.9991351711844754,positive,scope_only,semantic,DROP
+sewer,1.9950398155519034,positive,scope_only,semantic,DROP
+installation drainage,1.982802542394099,positive,scope_only,semantic,DROP
+drain,1.9826717401859448,positive,scope_only,semantic,DROP
+water pipe,1.9653513426112004,positive,scope_only,semantic,DROP
+drainage,1.9360260503555884,positive,scope_only,semantic,DROP

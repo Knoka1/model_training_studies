@@ -1,31 +1,31 @@
 keyword,score,direction,dataset,model,label
-demolition replacement,2.3088202207305826,positive,scope_only,semantic,PURSUE
-interior renovations,2.121895390785693,positive,scope_only,semantic,PURSUE
-interior renovation,2.0559725593043723,positive,scope_only,semantic,PURSUE
-construction demolition,2.0448969846593448,positive,scope_only,semantic,PURSUE
-replacements,2.0409189860487724,positive,scope_only,semantic,PURSUE
-replacement services,1.9589544106599437,positive,scope_only,semantic,PURSUE
-replacement background,1.8877910176851564,positive,scope_only,semantic,PURSUE
-building renovations,1.872301222603597,positive,scope_only,semantic,PURSUE
-replacement upgrade,1.8671931930922983,positive,scope_only,semantic,PURSUE
-wood replacement,1.8644095787424377,positive,scope_only,semantic,PURSUE
-replacement,1.8642493645677156,positive,scope_only,semantic,PURSUE
-reconstruction,1.8625360785512568,positive,scope_only,semantic,PURSUE
-renovation construction,1.855949826773508,positive,scope_only,semantic,PURSUE
-replacement existing,1.8459253357567615,positive,scope_only,semantic,PURSUE
-demolition,1.8294205636466347,positive,scope_only,semantic,PURSUE
-fence repairs,1.8270893206631054,positive,scope_only,semantic,PURSUE
-demolition existing,1.8257584676000005,positive,scope_only,semantic,PURSUE
-door replacement,1.8241799447281326,positive,scope_only,semantic,PURSUE
-structural integrity,1.8203660073042118,positive,scope_only,semantic,PURSUE
-contractor replace,1.8167754666117961,positive,scope_only,semantic,PURSUE
-replace damaged,1.7929721337934896,positive,scope_only,semantic,PURSUE
-replacement new,1.7913073883322381,positive,scope_only,semantic,PURSUE
-demolition removal,1.7851309201834262,positive,scope_only,semantic,PURSUE
-existing fencing,1.7837062456216561,positive,scope_only,semantic,PURSUE
-salvage,1.7767468695173694,positive,scope_only,semantic,PURSUE
-involves replacement,1.7707584481238374,positive,scope_only,semantic,PURSUE
-replacements work,1.767758206814238,positive,scope_only,semantic,PURSUE
-demolition plans,1.7474117982338542,positive,scope_only,semantic,PURSUE
-fence repair,1.7457236358054673,positive,scope_only,semantic,PURSUE
-repair replacement,1.7436702667922503,positive,scope_only,semantic,PURSUE
+interior renovations,2.042034899588005,positive,scope_only,semantic,PURSUE
+interior renovation,2.0307511790005375,positive,scope_only,semantic,PURSUE
+demolition replacement,1.980503866052103,positive,scope_only,semantic,PURSUE
+renovation demolition,1.97825738463162,positive,scope_only,semantic,PURSUE
+contractors replace,1.8997667271729657,positive,scope_only,semantic,PURSUE
+replacements,1.8646741544266223,positive,scope_only,semantic,PURSUE
+replace deteriorated,1.8386244036456296,positive,scope_only,semantic,PURSUE
+door replacement,1.8309862993363055,positive,scope_only,semantic,PURSUE
+renovation alteration,1.8272246069341478,positive,scope_only,semantic,PURSUE
+barracks dormitories,1.8252955456892488,positive,scope_only,semantic,PURSUE
+replacement upgrade,1.7710797243615994,positive,scope_only,semantic,PURSUE
+construction renovation,1.7684753093004728,positive,scope_only,semantic,PURSUE
+replacement existing,1.7538768048258966,positive,scope_only,semantic,PURSUE
+replacement,1.7132772128408154,positive,scope_only,semantic,PURSUE
+existing fencing,1.7049540392416498,positive,scope_only,semantic,PURSUE
+replace existing,1.6961298402986895,positive,scope_only,semantic,PURSUE
+construction demolition,1.6938574543466727,positive,scope_only,semantic,PURSUE
+replacement services,1.6844881136997756,positive,scope_only,semantic,PURSUE
+replacement south,1.6682970087127296,positive,scope_only,semantic,PURSUE
+renovation construction,1.6677283468991555,positive,scope_only,semantic,PURSUE
+replacement new,1.6625334401143588,positive,scope_only,semantic,PURSUE
+arv replacements,1.659748442474548,positive,scope_only,semantic,PURSUE
+building renovations,1.6574138523514803,positive,scope_only,semantic,PURSUE
+involves replacement,1.6426519024876294,positive,scope_only,semantic,PURSUE
+removing replacing,1.6337219438719843,positive,scope_only,semantic,PURSUE
+contractor replace,1.6211156454450868,positive,scope_only,semantic,PURSUE
+existing structures,1.6128490903648154,positive,scope_only,semantic,PURSUE
+replacing existing,1.6087899906955914,positive,scope_only,semantic,PURSUE
+replacing,1.6031077942589524,positive,scope_only,semantic,PURSUE
+demolition existing,1.5965524532884046,positive,scope_only,semantic,PURSUE

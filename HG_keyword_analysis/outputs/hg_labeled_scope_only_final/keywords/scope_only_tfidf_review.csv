@@ -1,31 +1,31 @@
 keyword,coefficient,direction,dataset,model,label
-development,0.7437541963899543,positive,scope_only,tfidf,REVIEW
-tennis,0.6547266051124291,positive,scope_only,tfidf,REVIEW
-installation,0.5984082077870219,positive,scope_only,tfidf,REVIEW
-hcd,0.5527888521290053,positive,scope_only,tfidf,REVIEW
-refurbishment,0.5289279552060103,positive,scope_only,tfidf,REVIEW
-concrete repairs,0.5237174174109873,positive,scope_only,tfidf,REVIEW
-2027,0.5206900973225512,positive,scope_only,tfidf,REVIEW
-sidewalk,0.5115148484182697,positive,scope_only,tfidf,REVIEW
-playground,0.5019962907048054,positive,scope_only,tfidf,REVIEW
-oak,0.49841527616568093,positive,scope_only,tfidf,REVIEW
-pickleball,0.4941472041028754,positive,scope_only,tfidf,REVIEW
-fencing,0.49246485312821087,positive,scope_only,tfidf,REVIEW
-leases,0.491216364806591,positive,scope_only,tfidf,REVIEW
-land,0.4831748210484518,positive,scope_only,tfidf,REVIEW
-city water,0.4811225102054235,positive,scope_only,tfidf,REVIEW
-center,0.47751007586336264,positive,scope_only,tfidf,REVIEW
-ocean,0.4699201818822139,positive,scope_only,tfidf,REVIEW
-description,0.46371509390462917,positive,scope_only,tfidf,REVIEW
-area,0.45639034217555086,positive,scope_only,tfidf,REVIEW
-site,0.45394135407576247,positive,scope_only,tfidf,REVIEW
-gymnasium,0.4443542993981412,positive,scope_only,tfidf,REVIEW
-lane,0.4432755481796348,positive,scope_only,tfidf,REVIEW
-surfacing,0.44156039186934315,positive,scope_only,tfidf,REVIEW
-district,0.43350036782762214,positive,scope_only,tfidf,REVIEW
-ballistic,0.43260616498210436,positive,scope_only,tfidf,REVIEW
-trade,0.4286418805816947,positive,scope_only,tfidf,REVIEW
-pressure,0.4209512894459694,positive,scope_only,tfidf,REVIEW
-community,0.417859278844382,positive,scope_only,tfidf,REVIEW
-storm,0.4176898611424909,positive,scope_only,tfidf,REVIEW
-general,0.4006160335455581,positive,scope_only,tfidf,REVIEW
+playground,0.8985503445540245,positive,scope_only,tfidf,REVIEW
+development,0.7688901767117757,positive,scope_only,tfidf,REVIEW
+roundabout,0.713462865583703,positive,scope_only,tfidf,REVIEW
+land,0.6942344301427142,positive,scope_only,tfidf,REVIEW
+concrete repairs,0.6570772828501917,positive,scope_only,tfidf,REVIEW
+refurbishment,0.606932276228746,positive,scope_only,tfidf,REVIEW
+barn,0.59173046983534,positive,scope_only,tfidf,REVIEW
+hcd,0.5604079625724241,positive,scope_only,tfidf,REVIEW
+city water,0.5416289373562673,positive,scope_only,tfidf,REVIEW
+pickleball,0.541343963189323,positive,scope_only,tfidf,REVIEW
+improvements,0.5379905183290061,positive,scope_only,tfidf,REVIEW
+oak,0.528807292393011,positive,scope_only,tfidf,REVIEW
+leases,0.5209378523177737,positive,scope_only,tfidf,REVIEW
+ocean,0.5199955140326623,positive,scope_only,tfidf,REVIEW
+street,0.5183086963438285,positive,scope_only,tfidf,REVIEW
+ballistic,0.5125398895384851,positive,scope_only,tfidf,REVIEW
+district,0.5025443105873925,positive,scope_only,tfidf,REVIEW
+sole,0.5001508638180775,positive,scope_only,tfidf,REVIEW
+lane,0.47549611605807046,positive,scope_only,tfidf,REVIEW
+pressure,0.4722991434913448,positive,scope_only,tfidf,REVIEW
+2027,0.4696957094575473,positive,scope_only,tfidf,REVIEW
+description,0.4631866085778679,positive,scope_only,tfidf,REVIEW
+hickory,0.4600242980664345,positive,scope_only,tfidf,REVIEW
+concrete,0.456789060249292,positive,scope_only,tfidf,REVIEW
+sidewalk,0.43629713634473616,positive,scope_only,tfidf,REVIEW
+panels,0.43162557828449294,positive,scope_only,tfidf,REVIEW
+trade,0.4298786123576905,positive,scope_only,tfidf,REVIEW
+installation,0.4245981101592475,positive,scope_only,tfidf,REVIEW
+ballistic panels,0.4213344071857769,positive,scope_only,tfidf,REVIEW
+level ballistic,0.41441672011437825,positive,scope_only,tfidf,REVIEW

@@ -29,7 +29,7 @@ from src.utils  import (
 
 ROOT = Path(__file__).parent
 
-DATASET_PATH = ROOT / "datatsets/keywords_hg_labeled_scope_only.csv"
+DATASET_PATH = ROOT / "datatsets/keywords_hg_labeled_scope_vfinal+.csv"
 
 OUT_BASE     = ROOT / "outputs/hg_labeled_scope_only_final"
 OUT_METRICS  = OUT_BASE / "metrics"
